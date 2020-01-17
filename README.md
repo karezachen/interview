@@ -3,6 +3,11 @@
 
 *Author: kareza*
 
+## Resume
+
++ [简历-陈亿强.pdf](./简历-陈亿强.pdf)
+
+## Exercises
+
 + [Java](./Java.md)
 + [Algorithm](./algorithm.md)
-
