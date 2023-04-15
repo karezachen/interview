@@ -1,11 +1,2 @@
-# This is the .gitignore file of project interview.
-# Author: kareza 
-
-# Ignore .DS_Store file
 .DS_Store
-
-# Ignore .git directory
-.git/
-
-# Dont't ignore .gitignore file
-!.gitignore
+*.pdf
